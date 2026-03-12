@@ -86,6 +86,8 @@ MyDiary is a secure, personal online diary web app that lets users write and sto
 
 **Yash Anil Patil**  
 Contact: yash.patil.yp687@gmail.com  
+**Divya chaudhari**
+contact:divya351chaudhari@gmail.com
 Project hosted at: [https://mydiary.gt.tc](https://mydiary.gt.tc)
 
 ---
